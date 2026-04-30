@@ -53,7 +53,7 @@ Looking for a **Cloud / DevSecOps internship — Fall 2026**.
 |---|---|---|
 | Networking Basics | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) | [View certificate](https://www.credly.com/badges/e4f2e6a3-c1f8-4efa-bc3a-9b48a9b46d07/public_url) |
 | Network Devices & Initial Configuration | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) | [View certificate](https://www.credly.com/badges/902d225e-a22c-49fe-944b-a025c6acf2cd/public_url) |
-| Pre-Security | ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white) | ✅ |
+| Pre-Security | ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white) | [View certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DCYYBVRPFD.pdf) |
 | OSINT CTF | ![TraceLabs](https://img.shields.io/badge/Trace_Labs-000000?style=flat&logoColor=white) | ✅ |
 ---
  
