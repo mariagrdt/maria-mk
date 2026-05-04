@@ -32,10 +32,10 @@ Looking for a **Cloud / DevSecOps internship — Fall 2026**.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**Inception**](https://github.com/mariagrdt/Inception/) | Multi-service Docker infrastructure with TLS, reverse proxy, database and cache | Docker, Nginx, MariaDB, Redis |
-| [**Signal Proxy**](https://github.com/) | Secure communication proxy deployed on production VPS | Docker Compose, Nginx, Let's Encrypt, SSH |
-| [**Born2beroot**](https://github.com/) | Linux system hardening in a virtual machine | Debian, LVM, UFW, SSH, Cron |
-| [**NetPractice**](https://github.com/) | Networking & troubleshooting exercises | TCP/IP, Subnetting, Routing |
-| [**Minishell**](https://github.com/) | Unix command interpreter in C | C, Fork, Exec, Pipes, Signals |
+| **Signal Proxy** | Secure communication proxy deployed on production VPS | Docker Compose, Nginx, Let's Encrypt, SSH |
+| **Born2beroot** | Linux system hardening in a virtual machine | Debian, LVM, UFW, SSH, Cron |
+| **NetPractice** | Networking & troubleshooting exercises | TCP/IP, Subnetting, Routing |
+| **Minishell**| Unix command interpreter in C | C, Fork, Exec, Pipes, Signals |
  
 ---
  
