@@ -32,8 +32,8 @@ Looking for a **Cloud / DevSecOps internship — Fall 2026**.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**Inception**](https://github.com/mariagrdt/Inception/) | Multi-service Docker infrastructure with TLS, reverse proxy, database and cache | Docker, Nginx, MariaDB, Redis |
-|[**Minishell**](https://github.com/mariagrdt/Minishell/) | Unix command interpreter in C | C, Fork, Exec, Pipes, Signals |
-| **Signal Proxy** | Secure communication proxy deployed on production VPS | Docker Compose, Nginx, Let's Encrypt, SSH |
+| [**Minishell**](https://github.com/mariagrdt/Minishell/) | Unix command interpreter in C | C, Fork, Exec, Pipes, Signals |
+| [**Signal Proxy**](https://github.com/mariagrdt/signal-proxy/) | Secure communication proxy deployed on production VPS | Docker Compose, Nginx, Let's Encrypt, SSH |
 | **Born2beroot** | Linux system hardening in a virtual machine | Debian, LVM, UFW, SSH, Cron |
 | **NetPractice** | Networking & troubleshooting exercises | TCP/IP, Subnetting, Routing |
  
