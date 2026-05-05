@@ -44,7 +44,7 @@ Looking for a **Cloud / DevSecOps internship — Fall 2026**.
 | Certification | Organization | Status |
 |---|---|---|
 | AWS Certified Cloud Practitioner | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) | 🔄 In progress |
-| SecNumAcadémie | ![ANSSI](https://img.shields.io/badge/ANSSI-000091?style=flat&logoColor=white) | [✅ View certificate](./assets/anssi_certificate.pdf) |
+| SecNumAcadémie | ![ANSSI](https://img.shields.io/badge/ANSSI-000091?style=flat&logoColor=white) | ✅ |
 
 
 ## 🏅 Badges & Micro-certifications
